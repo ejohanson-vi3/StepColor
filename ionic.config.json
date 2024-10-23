@@ -1,0 +1,7 @@
+{
+  "name": "StepColor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
